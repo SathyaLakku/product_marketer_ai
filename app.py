@@ -183,5 +183,5 @@ if 'generated_output' in st.session_state and st.session_state['generated_output
         )
 
 st.markdown("---")
-st.markdown("Made with ❤️ by an AI Enthusiast 🚀")
+st.markdown("Made with ❤️ by an AI Enthusiast - Lakku 🚀")
 st.markdown("For internal use for product marketers use it to generate the content and then post it in social media. Always double-check generated content.")
