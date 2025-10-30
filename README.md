@@ -22,7 +22,7 @@ Experience the app in action: [https://aprorduct-description.streamlit.app/](htt
 ## 🛠️ Technologies Used
 
 *   **Frontend/Backend:** Streamlit (Python framework)
-*   **Large Language Model (LLM):** Groq API (`llama3-8b-8192` model)
+*   **Large Language Model (LLM):** Groq API (`llama-3.1-8b-instant` model)
 *   **Environment Management:** `python-dotenv`
 
 ## ⚙️ How to Run Locally
